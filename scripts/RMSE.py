@@ -1,12 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        Plot RMSE vs months
 # Purpose:
 #
-# Author:      Acer
-#
-# Created:     14/10/2022
-# Copyright:   (c) Acer 2022
-# Licence:     <your licence>
+
 #-------------------------------------------------------------------------------
 
 from matplotlib import pyplot as plt
