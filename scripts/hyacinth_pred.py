@@ -1,9 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        SensorID5127
+# Name:        Hyacinth Prediction
 # Purpose:
 
-# Created:     12-12-2019
-# Copyright:   (c) t-82maca1mpg 2019
+
 ##special tahnks to Weimin Wang (https://weiminwang.blog/2017/09/29/multivariate-time-series-forecast-using-seq2seq-in-tensorflow/)
 ##Modified by   Caleb Juma
 
